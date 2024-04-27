@@ -11,7 +11,7 @@ Binaries for the stratum server for solo GPU mining
 
 ## Installing
 
-Download the binaries on the [releases](releases/latest).
+Download the binaries on the [releases](/releases/latest).
 
 Inside that arquive is the executable binary and a suggest `prod.yml` file that configures the stratum server.
 

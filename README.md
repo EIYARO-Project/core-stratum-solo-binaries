@@ -3,7 +3,7 @@
 [![Supports Windows](https://img.shields.io/badge/support-Windows-blue?logo=Windows)](https://github.com/EIYARO-Project/core-stratum-solo-binaries/releases/latest)
 [![Supports Linux](https://img.shields.io/badge/support-Linux-yellow?logo=Linux)](https://github.com/EIYARO-Project/core-stratum-solo-binaries/releases/latest)
 [![License](https://img.shields.io/github/license/EIYARO-Project/core)](https://github.com/EIYARO-Project/core-stratum-solo-binaries/blob/master/LICENSE)
-[![Latest Release](https://img.shields.io/github/v/release/EIYARO-Project/core?label=latest%20release)](https://github.com/EIYARO-Project/core-stratum-solo-binaries/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/EIYARO-Project/core-stratum-solo-binaries?label=latest%20release)](https://github.com/EIYARO-Project/core-stratum-solo-binaries/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/EIYARO-Project/core-stratum-solo-binaries/total)](https://github.com/EIYARO-Project/core-stratum-solo-binaries/releases)
 
 

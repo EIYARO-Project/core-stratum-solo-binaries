@@ -1,5 +1,5 @@
 # Stratum Solo Binaries
-Binaries for the stratum server for solo GPU mining
+Binaries for the stratum server for solo GPU mining.
 
 > **IMPORTANT**
 > This is a stratum server for solo `GPU` mining.
